@@ -1,0 +1,40 @@
+{
+    "Posts": [
+        {
+            "Id": 1,
+            "CrMail": "teste@teste.com",
+            "CrNome": "Teste",
+            "Titulo": "Avatar",
+            "Descricao": "O filme dos cara alto azul.",
+            "Tipo": "Filme",
+            "Recom": "6",
+            "NaoRecom": "3",
+            "IntFlag": 1,
+            "ConclFlag": 0
+        },
+        {
+            "Id": 2,
+            "CrMail": "teste@teste.com",
+            "CrNome": "Teste",
+            "Titulo": "Avatar: A Lenda de Aang",
+            "Descricao": "Desenho do moleque careca.",
+            "Tipo": "Serie",
+            "Recom": 0,
+            "NaoRecom": 0,
+            "IntFlag": 0,
+            "ConclFlag": 0
+        },
+        {
+            "Id": 3,
+            "CrMail": "teste2@teste.com",
+            "CrNome": "Teste2",
+            "Titulo": "Brooklyn 99",
+            "Descricao": "Policial de com\u00e9dia.",
+            "Tipo": "Serie",
+            "Recom": "1",
+            "NaoRecom": "0",
+            "IntFlag": 1,
+            "ConclFlag": 1
+        }
+    ]
+}

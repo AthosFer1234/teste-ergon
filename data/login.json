@@ -1,0 +1,22 @@
+{
+    "Users": [
+        {
+            "Nome": "Teste",
+            "CPF": "123",
+            "Email": "teste@teste.com",
+            "Senha": "$2y$10$2BZLzf9hoj2PDANpCptMXeyeWzbRrNHC9CMNhcYhdSjW62X9UvbrG",
+            "Seguindo": [
+                "1"
+            ]
+        },
+        {
+            "Nome": "Teste2",
+            "CPF": "123456",
+            "Email": "teste2@teste.com",
+            "Senha": "$2y$10$6j4nmlX2XjL4O2.ENUQmcOaWxh.pQFJomJl8732.7SMf\/Vu4v6L7K",
+            "Seguindo": [
+                "3"
+            ]
+        }
+    ]
+}
